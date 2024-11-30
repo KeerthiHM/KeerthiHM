@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm Keeerthi HM ,a recent BCA graduate passionate about <br>software development and technology.i am excited to start <br>my journey as a developer and contribute to the tech <br>community.<br><br>What I'm working on:<br>  Learning and improving my skills in java, Python and SQL.<br>  Building small projects to sharpen my web development skills(HTML, CSS, php)<br>Tools and Technologies:<br>  Programming Languages: Java, Python.<br>  Web Development: HTML, CSS, php.<br>  Database: MySQL.<br>  Tools: GitHub, VS Code, NetBeans. <br><br>My goal:<br> To continue Learning and growing as a software developer.
+I'm Keeerthi HM ,a recent BCA graduate passionate about software development and technology.i am excited to start my journey as a developer and contribute to the tech community.<br><br>What I'm working on:<br>  Learning and improving my skills in java, Python and SQL.<br>  Building small projects to sharpen my web development skills(HTML, CSS, php)<br>Tools and Technologies:<br>  Programming Languages: Java, Python.<br>  Web Development: HTML, CSS, php.<br>  Database: MySQL.<br>  Tools: GitHub, VS Code, NetBeans. <br><br>My goal:<br> To continue Learning and growing as a software developer.
 
 
 ## 🌐 Socials:
